@@ -1,0 +1,7 @@
+[project]
+name = "pws2025-asakatsu"
+version = "0.1.0"
+description = "pws2025"
+readme = "README.md"
+requires-python = ">=3.12.4"
+dependencies = []
